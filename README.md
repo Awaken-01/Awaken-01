@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awaken-01
-- 👀 I’m interested in Unity Projects and Kali Tools. 
+- 👀 I’m interested in Unity Projects
 - 🌱 I’m currently learning Unity Engine
 - 📫 How to reach me Mail me on ryantarique23@gmail.com
 
